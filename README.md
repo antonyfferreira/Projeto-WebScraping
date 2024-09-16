@@ -55,7 +55,7 @@ Uma ETL em Python para Web Scraping
 - Clone o repositório:
 
 ```bash
-git clone https://github.com/antonyfferreira/projeto-webscraping.git
+git clone https://github.com/antonyfferreira/Projeto-WebScraping.git
 
 cd projeto_webscraping
 ```
